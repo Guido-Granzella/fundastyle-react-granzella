@@ -1,0 +1,12 @@
+.pie{
+    text-align: center;
+    color: pink;
+    background-color: black;  
+    padding-bottom: 1em;  
+    padding-top: 1em;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
